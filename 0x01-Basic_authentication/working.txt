@@ -1,0 +1,14 @@
+git add api/v1/app.py
+git commit -m 'api/v1/app.py'
+git add api/v1/views/index.py
+git commit -m 'api/v1/views/index.py'
+git add api/v1/views/__init__.py
+git commit -m 'api/v1/views/__init__.py'
+git add api/v1/views/users.py
+git commit -m 'api/v1/views/users.py'
+git add api/v1/auth/auth.py
+git commit -m 'api/v1/auth/auth.py'
+git add api/v1/auth/basic_auth.py
+git commit -m 'api/v1/auth/basic_auth.py'
+git add api/v1/auth/__init__.py
+git commit -m 'api/v1/auth/__init__.py'
